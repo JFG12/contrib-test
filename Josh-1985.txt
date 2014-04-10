@@ -1,0 +1,2 @@
+I'm from Waterloo Ontario and interested in contributing to SciPy!
+
